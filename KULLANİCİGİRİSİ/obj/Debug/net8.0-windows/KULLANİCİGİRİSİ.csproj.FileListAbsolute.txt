@@ -1,0 +1,17 @@
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\bin\Debug\net8.0-windows\KULLANİCİGİRİSİ.exe
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\bin\Debug\net8.0-windows\KULLANİCİGİRİSİ.deps.json
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\bin\Debug\net8.0-windows\KULLANİCİGİRİSİ.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\bin\Debug\net8.0-windows\KULLANİCİGİRİSİ.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\bin\Debug\net8.0-windows\KULLANİCİGİRİSİ.pdb
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.KullanıcıGiriş.resources
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\refint\KULLANİCİGİRİSİ.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.pdb
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\ref\KULLANİCİGİRİSİ.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\KULLANİCİGİRİSİ\KULLANİCİGİRİSİ\obj\Debug\net8.0-windows\KULLANİCİGİRİSİ.Form1.resources
